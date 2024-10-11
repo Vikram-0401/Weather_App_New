@@ -2,6 +2,9 @@
 
 A simple weather application built using React that fetches and displays real-time weather data from an external API.
 
+### Live site here : [Weather_App](https://weatherapp-one-gamma.vercel.app/)
+
+
 ## Features
 
 - Current weather information for any city
