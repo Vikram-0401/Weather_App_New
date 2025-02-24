@@ -13,8 +13,7 @@ A simple weather application built using React that fetches and displays real-ti
 - Humidity and wind speed
 
 ## Tech Stack
-
-- React.js
+- Html css js
 - OpenWeather API (for weather data)
 - CSS (for styling)
 
@@ -29,24 +28,8 @@ A simple weather application built using React that fetches and displays real-ti
     ```bash
     cd weather_App_New
     ```
-
-3. Install dependencies:
-    ```bash
-    npm install
-    ```
-
-4. Get your API key from [OpenWeather API](https://openweathermap.org/api) and add it to an `.env` file:
-    ```bash
-    REACT_APP_WEATHER_API_KEY=your-api-key
-    ```
-
-5. Start the development server:
-    ```bash
-    npm start
-    ```
-
-6. Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
-
+3. Run the app
+4. 
 ## How to Use
 
 1. Enter the city name in the search bar.
