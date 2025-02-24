@@ -29,7 +29,7 @@ A simple weather application built using React that fetches and displays real-ti
     cd weather_App_New
     ```
 3. Run the app
-4. 
+   
 ## How to Use
 
 1. Enter the city name in the search bar.
